@@ -23,3 +23,5 @@ The future goal of this web map is to provide a tool for engineers, policymakers
 * Watershed Data & Shapefile: <i><a href="https://www.epa.gov/wsio/wsio-indicator-data-library">EPA</a></i><BR>
 * Ecoregion Shapefile: <i><a href="https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states">EPA</a></i><BR>
 * Basemap: <i><a href="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'">ESRI</i></a>
+  
+*Map created by Josh Platt* 
