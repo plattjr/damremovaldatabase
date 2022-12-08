@@ -1,11 +1,15 @@
 # Dam Removals with Peer-Reviewed Studies Database
 
-This web map is a running inventory of all dam removal projects found from the data sources below, a graphic representation of dam removals with associated scientific research. 
+Dam Removals are becoming an increasingly proven tool to restore river health, improve public safety, revitalize fish and wildlife populations, safeguard cultural values and reconnect communities to their rivers.
+
+American Rivers posts a "State of Dam Removal in the US" report that highlights removals in the past year, as well as future removal projects. The current goal of this webmap is to provide a better visual with links to physical, biological, and water quality peer-reviewd articles and reports to better understand ecological responses and why and how this removals benefit river health and communities.
+
+The future goal of this web map is to provide a tool for engineers, policymakers, and scientific researchers to compare removals across the country to guide their work in potential future removal projects by mapping and including variables that influence a river's recovery trajectory.
 
 ### Libraries and coding languages used:
 * HTML
 * CSS
-* Javascrip
+* Javascript
 * JQuery
 * Chroma
 * Leaflet
